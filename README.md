@@ -8,7 +8,7 @@ The company tries to understand its website traffic, user engagement and user si
 
 
 ## Listed files
-'Summary': It provides summary of analysis and conclusion for this project. It has 6 sections: Background, Dataset, Analysis, Modeling, Conclusion and Next Step. This notebook is a good start if you are looking for an overview of the project and interested in conclusions.
+**'Summary'**: It provides summary of analysis and conclusion for this project. It has 6 sections: Background, Dataset, Analysis, Modeling, Conclusion and Next Step. This notebook is a good start if you are looking for an overview of the project and interested in conclusions.
 
 'SensorsData_DataWrangling': It provides code of data processing, EDA, funnel analysis and retention analysis part in the project. Also, insignts from EDA, funnel analysis and retention analysis is included. 
 
